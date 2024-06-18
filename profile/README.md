@@ -1,8 +1,9 @@
-# UlikBatik - Bangkit Capstone Project 2024
-![Desktop - 1](link image mockup)
+# UlikBatik - Capstone Project 2024 - C241-PS313
 
-## {add slogan here} Application 💆‍♀️📱 <br>
-Please introduce our application, UlikBatik! 
+<div align="start">
+  <img src="https://github.com/UlikBatik/Mobile-Development-UlikBatik/blob/master/ulikbatik_logo.png"/>
+  <p align="center">Discover and Share the Beauty of Authentic Batik</p>
+</div>
 
 ## [Download App Here (.apk file)](link gdrive)
 
@@ -26,12 +27,19 @@ Please introduce our application, UlikBatik!
    *list of tools
 
 - **Mobile Development** :
-    *list of tools
+  * Kotlin
+  * MVVM
+  * Material Design 3 Components
+  * Android XML
+  * Android Jetpack Library
+  * uCrop
+  * CameraX
 
 # Repositories 📁
 You can check our repositories for each learning path in the tables below. Or you can just directly go to tab repositories on this organization profile and open of each Learning path.
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
-| Mobile Development | [Github]()       |
-|  Machine Learning  |  [Github]()       |
-|   Cloud Computing  |   [Github]()    |
+| Mobile Development | [app](https://github.com/UlikBatik/Mobile-Development-UlikBatik)       |
+|  Machine Learning  |  [recommender-system](https://github.com/UlikBatik/recommender-system)   |
+| Machine Learning | []() |
+|   Cloud Computing  |   [Backend Service](https://github.com/UlikBatik/cloud-computing-backend)    |
