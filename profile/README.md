@@ -1,7 +1,7 @@
 # UlikBatik - Bangkit Capstone Project 2024
 ![Desktop - 1](link image mockup)
 
-## Smart Skincare Application 💆‍♀️📱 <br>
+## {add slogan here} Application 💆‍♀️📱 <br>
 Please introduce our application, UlikBatik! 
 
 ## [Download App Here (.apk file)](link gdrive)
