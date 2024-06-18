@@ -5,6 +5,8 @@
   <p align="center">Discover and Share the Beauty of Authentic Batik</p>
 </div>
 
+## [Design App Here](https://www.figma.com/design/yU1sbDXzxvKMg0780iXmaC/Capstone-Project?node-id=50-2&t=Ue09zCDsiAsAWK52-1)
+
 ## [Download App Here (.apk file)](link gdrive)
 
 # Team 🤝 :
