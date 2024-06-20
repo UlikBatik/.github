@@ -7,7 +7,7 @@
 
 ## [Design App Here](https://www.figma.com/design/yU1sbDXzxvKMg0780iXmaC/Capstone-Project?node-id=50-2&t=Ue09zCDsiAsAWK52-1)
 
-## [Download App Here (.apk file)](link gdrive)
+## [Download App Here (.apk file)](https://drive.google.com/drive/folders/1SrmmKFwkwPCZX0mZdh9m_udGssc3ZMzI?usp=sharing)
 
 # Team 🤝 :
 |          Nama         | Bangkit-ID |       Path       |
@@ -23,10 +23,25 @@
 # Technologies used 🔧 
 
 - **Machine Learning** :
-  *list of tools
+  * Pandas
+  * Matplotlib
+  * SQLite 3
+  * TensorFlow
+  * TFJS
+  * Keras
+  * Scikit-learn
+  * Numpy
   
-- **Cloud & Backend** : 
-   *list of tools
+- **Cloud & Backend** :
+  * Cloud Run
+  * ⁠Cloud SQL
+  * Cloud Storage
+  * Express JS
+  * Flask
+  * Tensorflow tfjs-node
+  * Prisma
+  * Axios
+  * Cheerio
 
 - **Mobile Development** :
   * Kotlin
@@ -43,5 +58,5 @@ You can check our repositories for each learning path in the tables below. Or yo
 | :----------------: | :----------------------------------------------------------------: |
 | Mobile Development | [app](https://github.com/UlikBatik/Mobile-Development-UlikBatik)       |
 |  Machine Learning  |  [recommender-system](https://github.com/UlikBatik/recommender-system)   |
-| Machine Learning | []() |
+| Machine Learning | [image-classification](https://github.com/UlikBatik/Machine-Learning-UlikBatik) |
 |   Cloud Computing  |   [Backend Service](https://github.com/UlikBatik/cloud-computing-backend)    |
